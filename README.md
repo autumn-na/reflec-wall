@@ -2,7 +2,7 @@
 Reflec Wall is a casual game using Unity.
 
 ## Table of Contents
-- [ChangeLog](#ChangeLog)
+- [Changelog](#Changelog)
 
 ## Changelog
 ### [Unreleased] - 2017-06-30
